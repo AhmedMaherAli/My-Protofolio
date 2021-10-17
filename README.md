@@ -1,2 +1,2 @@
 # My-Protofolio
-It was Xiaoying Riley CV template and I edited it.
+It was Xiaoying Riley resume template and I edited it.
